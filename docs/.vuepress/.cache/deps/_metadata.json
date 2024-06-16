@@ -1,55 +1,55 @@
 {
-  "hash": "a6a4b3aa",
-  "configHash": "ea47920c",
-  "lockfileHash": "a67c55f4",
-  "browserHash": "0dad8bdc",
+  "hash": "cceb3b46",
+  "configHash": "91b697ad",
+  "lockfileHash": "310f7a27",
+  "browserHash": "487e1322",
   "optimized": {
     "mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "mark__js_src_vanilla__js.js",
-      "fileHash": "621f1ec3",
+      "fileHash": "a4c6f584",
       "needsInterop": false
     },
     "@vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "312b81e8",
+      "fileHash": "bf240dc4",
       "needsInterop": false
     },
     "minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "minisearch.js",
-      "fileHash": "01e11437",
+      "fileHash": "2fb5e4bb",
       "needsInterop": false
     },
     "@vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
-      "fileHash": "b02d664b",
+      "fileHash": "54492031",
       "needsInterop": false
     },
     "@vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "71a5fe48",
+      "fileHash": "4a4d8230",
       "needsInterop": false
     },
     "@vuepress/shared": {
       "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "577cce53",
+      "fileHash": "90f54d63",
       "needsInterop": false
     },
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "c2c1ed1d",
+      "fileHash": "624e28bd",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "de9e962e",
+      "fileHash": "78a8b895",
       "needsInterop": false
     }
   },

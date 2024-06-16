@@ -1,0 +1,15 @@
+.vp-tag-ke5n {
+  --vp-tag-color: #299764;
+  --vp-tag-hover-color: #18794e;
+  --vp-tag-bg: rgba(16, 185, 129, 0.14);
+}
+.vp-tag-rbdu {
+  --vp-tag-color: #d5393e;
+  --vp-tag-hover-color: #b8272c;
+  --vp-tag-bg: rgba(244, 63, 94, 0.14);
+}
+.vp-tag-xm8g {
+  --vp-tag-color: #66CCCC;
+  --vp-tag-hover-color: #66CCAA;
+  --vp-tag-bg: rgba(102, 204, 204, 0.14);
+}

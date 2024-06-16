@@ -22,7 +22,7 @@ export default defineUserConfig({
     ],
     navbar: [
       { text: '首页', link: '/', icon: 'material-symbols:home-outline' },
-      { text: '博客', link: '/blog/', icon: 'material-symbols:article-outline' },
+      { text: '博客', link: '/blog/', icon: 'material-symbols:article-outline' }
     ],
     plugins: {
       // 代码高亮
@@ -32,6 +32,9 @@ export default defineUserConfig({
       // 阅读统计
       readingTime: {
         wordPerMinute: 200
+      },
+      search: {
+        // more options
       }
     }
   }),

@@ -1,4 +1,4 @@
-import comp from "D:/fileplace/private/coding/webWorkplace/blog/docs/.vuepress/.temp/pages/blog/archives/index.html.vue"
+import comp from "E:/2024/blog/docs/.vuepress/.temp/pages/blog/archives/index.html.vue"
 const data = JSON.parse("{\"path\":\"/blog/archives/\",\"title\":\"归档\",\"lang\":\"zh-CN\",\"frontmatter\":{\"lang\":\"zh-CN\",\"type\":\"blog-archives\",\"title\":\"归档\",\"article\":false,\"head\":[[\"script\",{\"id\":\"check-dark-mode\"},\";(function () {const um= localStorage.getItem('vuepress-theme-appearance') || 'auto';const sm = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;if (um === 'dark' || (um !== 'light' && sm)) {document.documentElement.classList.add('dark');}})();\"],[\"script\",{\"id\":\"check-mac-os\"},\"document.documentElement.classList.toggle('mac', /Mac|iPhone|iPod|iPad/i.test(navigator.platform))\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":null,\"isBlogPost\":false,\"type\":\"blog-archives\"}")
 export { comp, data }
 
